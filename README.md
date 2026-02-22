@@ -14,7 +14,7 @@ locator / dependency injection container.
 
 --
 
-![lasitrade1](assets/lasitrade1.png) ![lasitrade2](assets/lasitrade2.png)
+![lasitrade2](assets/lasitrade2.png) ![lasitrade1](assets/lasitrade1.png)
 
 --
 
